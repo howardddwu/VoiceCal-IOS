@@ -2,7 +2,7 @@
 
 A simple calculator application built using SwiftUI. This app provides basic arithmetic operations and a user-friendly interface.
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/howardddwu/VoiceCal-IOS/blob/main/2024-11-27%2013.41.25.gif))
+![Calculations](https://github.com/howardddwu/VoiceCal-IOS/blob/main/2024-11-27%2013.41.25.gif)
 
 ## Features
 
