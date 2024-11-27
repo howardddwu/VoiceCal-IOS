@@ -32,7 +32,7 @@ A simple calculator application built using SwiftUI. This app provides basic ari
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/howardddwu/VoiceCal-IOS.git
    ```
 2. Open the project in Xcode:
    ```bash
