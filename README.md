@@ -2,9 +2,12 @@
 
 A simple calculator application built using SwiftUI. This app provides basic arithmetic operations and a user-friendly interface.
 
+### Menu Bar
 ![MenuBar](https://github.com/howardddwu/VoiceCal-IOS/blob/main/2024-11-27%2013.41.25.gif)
-
+### Calculations
 ![Calculations](https://github.com/howardddwu/VoiceCal-IOS/blob/main/2024-11-27%2013.40.43.gif)
+
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
